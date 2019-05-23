@@ -7,3 +7,4 @@ const hello = appController.getHello();
 
 console.log(hello);
 // execute: npx ts-node ./src/assemble.ts
+// Exploring Dependency Injection Container
