@@ -10,4 +10,11 @@ export class AppController {
     console.log("getHello()");
     return this.appService.getHello();
   }
+
+  @Get('/all')
+  getAll(): string {
+    console.log("getAll()");
+    return this.appService.getAll();
+  }
+
 }
