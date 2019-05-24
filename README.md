@@ -53,6 +53,9 @@ $ npm run start:prod
 # unit tests
 $ npm run test
 
+# Install jest-hbs-extension
+$ npm install --save-dev jest-hbs-extension
+
 # e2e tests
 $ npm run test:e2e
 
