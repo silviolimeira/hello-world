@@ -1,0 +1,3 @@
+
+Package for test e2e: (vulnerability install for test only)
+$ npm install --save-dev jest-hbs-extension@latest
